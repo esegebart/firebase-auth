@@ -1,6 +1,6 @@
 # Firebase Authentication Using Email and Password
 
-This was a project for University. The project was an outdated Firebase Authentication project using email and password to sign up a user
+This was a project for University written in Java. The project was an outdated Firebase Authentication project using email and password to sign up a user
 and sign in a user. The user was signed up through the application and the second user was created using the Firebase console. I was to
 create a signIn method that was verified in the logcat with the onAuthStateChanged() method. If successful, the signInWithEmail will read
 "success", if the login failed, the signInWithEmail will read "failure".
